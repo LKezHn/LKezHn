@@ -4,7 +4,7 @@ I'm Luis. I write code sometimes.
 
 - 🔭 I’m currently working on COINTLA.
 - 💬 Ask me about React, Angular, Typescript, Express, Golang.
-- 📫 How to reach me: [Telegram](htttps://t.me/lkez_hn), mluise2406@gmail.com
+- 📫 How to reach me: [Telegram](https://t.me/lkez_hn), mluise2406@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKezHn&hide=css,prolog,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
