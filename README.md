@@ -3,7 +3,7 @@
 I'm Luis. I write code sometimes.
 
 - 🔭 I’m currently working on COINTLA.
-- 💬 Ask me about React, Angular, Typescript, Express, Golang.
+- 💬 Ask me about React, Angular, Typescript, Express, Golang or The Legend of Zelda.
 - 📫 How to reach me: [Telegram](https://t.me/lkez_hn), mluise2406@gmail.com
 
 ## Some technologies I use:
