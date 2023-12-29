@@ -6,7 +6,7 @@ I'm Luis. I write code sometimes.
 - 💬 Ask me about React, Angular, Typescript, Express, Golang or The Legend of Zelda.
 - 📫 How to reach me: [Telegram](https://t.me/lkez_hn), mluise2406@gmail.com
 
-## Some technologies I use:
+## Some technologies & tools I use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
@@ -20,6 +20,9 @@ I'm Luis. I write code sometimes.
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 </p>
 
 ----------------------
