@@ -2,8 +2,8 @@
 
 I'm Luis. I write code sometimes.
 
-- 🔭 I’m currently working on COINTLA.
-- 💬 Ask me about React, Angular, Typescript, Express, Golang or The Legend of Zelda.
+- 🔭 I’m currently working on BAC Latam.
+- 💬 Ask me about React, Angular, Typescript, Express, Golang, PEGA or The Legend of Zelda.
 - 📫 How to reach me: [Telegram](https://t.me/lkez_hn), [Email](mailto:mluise2406@gmail.com) 
 ## Some technologies & tools I use:
 
